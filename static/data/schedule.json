@@ -1,0 +1,3135 @@
+[{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a353"
+  },
+  "courseCode": "CSE101",
+  "section": 1,
+  "instructor": "AT",
+  "startTime": "8:30",
+  "endTime": "10:00",
+  "day": "ST",
+  "room": "ICS LAB"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a354"
+  },
+  "courseCode": "CSE101",
+  "section": 2,
+  "instructor": "ABST",
+  "startTime": "1:30",
+  "endTime": "3:00",
+  "day": "MW",
+  "room": "ICS LAB"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a355"
+  },
+  "courseCode": "CSE101",
+  "section": 3,
+  "instructor": "TBA",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "ST",
+  "room": "ICS LAB"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a356"
+  },
+  "courseCode": "CSE101",
+  "section": 4,
+  "instructor": "TBA",
+  "startTime": "8:30",
+  "endTime": "10:00",
+  "day": "MW",
+  "room": "ICS LAB"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a357"
+  },
+  "courseCode": "CSE101",
+  "section": 5,
+  "instructor": "ABST",
+  "startTime": "3:10",
+  "endTime": "4:40",
+  "day": "MW",
+  "room": "ICS LAB"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a358"
+  },
+  "courseCode": "CSE101",
+  "section": 6,
+  "instructor": "MAHI",
+  "startTime": "8:30",
+  "endTime": "10:00",
+  "day": "MW",
+  "room": "ICS LAB"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a359"
+  },
+  "courseCode": "CSE101",
+  "section": 7,
+  "instructor": "MAHI",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "MW",
+  "room": "ICS LAB"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a35a"
+  },
+  "courseCode": "CSE101",
+  "section": 8,
+  "instructor": "TBA",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "TR",
+  "room": "ICS LAB"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a35b"
+  },
+  "courseCode": "CSE101",
+  "section": 9,
+  "instructor": "TBA",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "MW",
+  "room": "ICS LAB"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a35c"
+  },
+  "courseCode": "CSE101",
+  "section": 10,
+  "instructor": "TBA",
+  "startTime": "1:30",
+  "endTime": "3:00",
+  "day": "ST",
+  "room": "ICS LAB"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a35d"
+  },
+  "courseCode": "CSE101",
+  "section": 11,
+  "instructor": "TBA",
+  "startTime": "3:10",
+  "endTime": "4:40",
+  "day": "ST",
+  "room": "ICS LAB"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a35e"
+  },
+  "courseCode": "CSE101",
+  "section": 12,
+  "instructor": "TBA",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "SR",
+  "room": "ICS LAB"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a35f"
+  },
+  "courseCode": "CSE101",
+  "section": 13,
+  "instructor": "TBA",
+  "startTime": "8:30",
+  "endTime": "10:00",
+  "day": "SR",
+  "room": "ICS LAB"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a360"
+  },
+  "courseCode": "CSE101",
+  "section": 14,
+  "instructor": "TBA",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "TR",
+  "room": "ICS LAB"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a361"
+  },
+  "courseCode": "CSE103",
+  "section": 1,
+  "instructor": "DMAY",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "ST",
+  "parallelOfferedCourse": "CSE105"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a362"
+  },
+  "courseCode": "CSE103",
+  "section": 2,
+  "instructor": "TBA-2",
+  "startTime": "8:30",
+  "endTime": "10:00",
+  "day": "MW",
+  "parallelOfferedCourse": "CSE105"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a363"
+  },
+  "courseCode": "CSE103",
+  "section": 3,
+  "instructor": "TJ",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "ST",
+  "parallelOfferedCourse": "CSE105"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a364"
+  },
+  "courseCode": "CSE103",
+  "section": 4,
+  "instructor": "TJ",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "MW",
+  "parallelOfferedCourse": "CSE105"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a365"
+  },
+  "courseCode": "CSE103",
+  "section": 5,
+  "instructor": "DMAY",
+  "startTime": "1:30",
+  "endTime": "3:00",
+  "day": "ST",
+  "parallelOfferedCourse": "CSE105"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a366"
+  },
+  "courseCode": "CSE103",
+  "section": 6,
+  "instructor": "TBA-2",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "ST",
+  "parallelOfferedCourse": "CSE105"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a367"
+  },
+  "courseCode": "CSE103",
+  "section": 7,
+  "instructor": "DAKC",
+  "startTime": "8:30",
+  "endTime": "10:00",
+  "day": "SR",
+  "parallelOfferedCourse": "CSE105"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a368"
+  },
+  "courseCode": "CSE103",
+  "section": 8,
+  "instructor": "DMIM",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "MW",
+  "parallelOfferedCourse": "CSE105"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a369"
+  },
+  "courseCode": "CSE103",
+  "section": 9,
+  "instructor": "DAHF",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "TR",
+  "parallelOfferedCourse": "CSE105"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a36a"
+  },
+  "courseCode": "CSE103",
+  "section": 10,
+  "instructor": "TBA",
+  "startTime": "8:30",
+  "endTime": "10:00",
+  "day": "TR",
+  "parallelOfferedCourse": "CSE105"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a36b"
+  },
+  "courseCode": "CSE103",
+  "section": 11,
+  "instructor": "TBA",
+  "startTime": "8:30",
+  "endTime": "10:00",
+  "day": "MW",
+  "parallelOfferedCourse": "CSE105"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a36c"
+  },
+  "courseCode": "CSE103",
+  "section": 12,
+  "instructor": "TBA",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "SR",
+  "parallelOfferedCourse": "CSE105"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a36d"
+  },
+  "courseCode": "CSE103",
+  "section": 13,
+  "instructor": "TBA",
+  "startTime": "3:10",
+  "endTime": "4:40",
+  "day": "SR",
+  "parallelOfferedCourse": "CSE105"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a36e"
+  },
+  "courseCode": "CSE103",
+  "section": 14,
+  "instructor": "TBA",
+  "startTime": "8:30",
+  "endTime": "10:00",
+  "day": "ST",
+  "parallelOfferedCourse": "CSE105"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a36f"
+  },
+  "courseCode": "CSE103LAB",
+  "section": 1,
+  "instructor": "TJ",
+  "startTime": "10:10",
+  "endTime": "1:10",
+  "day": "R",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a370"
+  },
+  "courseCode": "CSE103LAB",
+  "section": 2,
+  "instructor": "TBA-2",
+  "startTime": "10:10",
+  "endTime": "1:10",
+  "day": "R",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a371"
+  },
+  "courseCode": "CSE103LAB",
+  "section": 3,
+  "instructor": "TJ",
+  "startTime": "1:30",
+  "endTime": "4:30",
+  "day": "S",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a372"
+  },
+  "courseCode": "CSE103LAB",
+  "section": 4,
+  "instructor": "TJ",
+  "startTime": "1:30",
+  "endTime": "4:30",
+  "day": "T",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a373"
+  },
+  "courseCode": "CSE103LAB",
+  "section": 5,
+  "instructor": "DMAY",
+  "startTime": "3:10",
+  "endTime": "6:10",
+  "day": "T",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a374"
+  },
+  "courseCode": "CSE103LAB",
+  "section": 6,
+  "instructor": "TBA-2",
+  "startTime": "8:00",
+  "endTime": "10:00",
+  "day": "R",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a375"
+  },
+  "courseCode": "CSE103LAB",
+  "section": 7,
+  "instructor": "TBA",
+  "startTime": "10:10",
+  "endTime": "12:10",
+  "day": "T",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a376"
+  },
+  "courseCode": "CSE103LAB",
+  "section": 8,
+  "instructor": "TBA",
+  "startTime": "10:10",
+  "endTime": "1:10",
+  "day": "R",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a377"
+  },
+  "courseCode": "CSE103LAB",
+  "section": 9,
+  "instructor": "DAHF",
+  "startTime": "8:00",
+  "endTime": "11:00",
+  "day": "M",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a378"
+  },
+  "courseCode": "CSE103LAB",
+  "section": 10,
+  "instructor": "TBA",
+  "startTime": "8:00",
+  "endTime": "11:00",
+  "day": "W",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a379"
+  },
+  "courseCode": "CSE103LAB",
+  "section": 11,
+  "instructor": "TBA",
+  "startTime": "1:30",
+  "endTime": "4:30",
+  "day": "T",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a37a"
+  },
+  "courseCode": "CSE103LAB",
+  "section": 12,
+  "instructor": "TBA",
+  "startTime": "8:00",
+  "endTime": "11:00",
+  "day": "M",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a37b"
+  },
+  "courseCode": "CSE103LAB",
+  "section": 13,
+  "instructor": "TBA",
+  "startTime": "4:50",
+  "endTime": "7:50",
+  "day": "M",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a37c"
+  },
+  "courseCode": "CSE103LAB",
+  "section": 14,
+  "instructor": "TBA",
+  "startTime": "1:30",
+  "endTime": "4:30",
+  "day": "W",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a37d"
+  },
+  "courseCode": "CSE106",
+  "section": 1,
+  "instructor": "MHAK",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "ST",
+  "parallelOfferedCourse": "CSE205"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a37e"
+  },
+  "courseCode": "CSE106",
+  "section": 2,
+  "instructor": "MHAK",
+  "startTime": "1:30",
+  "endTime": "3:00",
+  "day": "ST",
+  "parallelOfferedCourse": "CSE205"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a37f"
+  },
+  "courseCode": "CSE106",
+  "section": 3,
+  "instructor": "MHAK",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "MW",
+  "parallelOfferedCourse": "CSE205"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a380"
+  },
+  "courseCode": "CSE106",
+  "section": 4,
+  "instructor": "DMAZH",
+  "startTime": "1:30",
+  "endTime": "3:00",
+  "day": "ST",
+  "parallelOfferedCourse": "CSE205"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a381"
+  },
+  "courseCode": "CSE106",
+  "section": 5,
+  "instructor": "DMAZH",
+  "startTime": "3:10",
+  "endTime": "4:40",
+  "day": "ST",
+  "parallelOfferedCourse": "CSE205"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a382"
+  },
+  "courseCode": "CSE106",
+  "section": 6,
+  "instructor": "DSU",
+  "startTime": "8:30",
+  "endTime": "10:00",
+  "day": "TR",
+  "parallelOfferedCourse": "CSE205"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a383"
+  },
+  "courseCode": "CSE106",
+  "section": 7,
+  "instructor": "DSU",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "MW",
+  "parallelOfferedCourse": "CSE205"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a384"
+  },
+  "courseCode": "CSE106",
+  "section": 8,
+  "instructor": "TBA",
+  "startTime": "1:30",
+  "endTime": "3:00",
+  "day": "MW",
+  "parallelOfferedCourse": "CSE205"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a385"
+  },
+  "courseCode": "CSE106",
+  "section": 9,
+  "instructor": "TBA",
+  "startTime": "8:30",
+  "endTime": "10:00",
+  "day": "TR",
+  "parallelOfferedCourse": "CSE205"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a386"
+  },
+  "courseCode": "CSE108",
+  "section": 1,
+  "instructor": "AT",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "ST"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a387"
+  },
+  "courseCode": "CSE108LAB",
+  "section": 1,
+  "instructor": "TBA",
+  "startTime": "1:30",
+  "endTime": "3:30",
+  "day": "R",
+  "room": "ICS LAB"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a388"
+  },
+  "courseCode": "CSE110",
+  "section": 1,
+  "instructor": "IMRAN",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "SR",
+  "parallelOfferedCourse": "CSE207"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a389"
+  },
+  "courseCode": "CSE110",
+  "section": 2,
+  "instructor": "MDH",
+  "startTime": "8:30",
+  "endTime": "10:00",
+  "day": "ST",
+  "parallelOfferedCourse": "CSE207"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a38a"
+  },
+  "courseCode": "CSE110",
+  "section": 3,
+  "instructor": "TM",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "ST",
+  "parallelOfferedCourse": "CSE207"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a38b"
+  },
+  "courseCode": "CSE110",
+  "section": 4,
+  "instructor": "TM",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "ST",
+  "parallelOfferedCourse": "CSE207"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a38c"
+  },
+  "courseCode": "CSE110",
+  "section": 5,
+  "instructor": "IMRAN",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "ST",
+  "parallelOfferedCourse": "CSE207"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a38d"
+  },
+  "courseCode": "CSE110",
+  "section": 6,
+  "instructor": "AUD",
+  "startTime": "3:10",
+  "endTime": "4:40",
+  "day": "SR",
+  "parallelOfferedCourse": "CSE207"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a38e"
+  },
+  "courseCode": "CSE110",
+  "section": 7,
+  "instructor": "SDIS",
+  "startTime": "1:30",
+  "endTime": "3:30",
+  "day": "SR",
+  "parallelOfferedCourse": "CSE207"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a38f"
+  },
+  "courseCode": "CSE110",
+  "section": 8,
+  "instructor": "SDIS",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "MW",
+  "parallelOfferedCourse": "CSE207"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a390"
+  },
+  "courseCode": "CSE110",
+  "section": 9,
+  "instructor": "TBA",
+  "startTime": "1:30",
+  "endTime": "3:30",
+  "day": "SR",
+  "parallelOfferedCourse": "CSE207"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a391"
+  },
+  "courseCode": "CSE110",
+  "section": 10,
+  "instructor": "TBA",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "MW",
+  "parallelOfferedCourse": "CSE207"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a392"
+  },
+  "courseCode": "CSE110LAB",
+  "section": 1,
+  "instructor": "IMRAN",
+  "startTime": "4:50",
+  "endTime": "7:50",
+  "day": "T",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a393"
+  },
+  "courseCode": "CSE110LAB",
+  "section": 2,
+  "instructor": "MDH",
+  "startTime": "10:10",
+  "endTime": "1;10",
+  "day": "M",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a394"
+  },
+  "courseCode": "CSE110LAB",
+  "section": 3,
+  "instructor": "TM",
+  "startTime": "10:10",
+  "endTime": "1:10",
+  "day": "W",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a395"
+  },
+  "courseCode": "CSE110LAB",
+  "section": 4,
+  "instructor": "TM",
+  "startTime": "10:10",
+  "endTime": "1:10",
+  "day": "R",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a396"
+  },
+  "courseCode": "CSE110LAB",
+  "section": 5,
+  "instructor": "IMRAN",
+  "startTime": "10:10",
+  "endTime": "1:10",
+  "day": "W",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a397"
+  },
+  "courseCode": "CSE110LAB",
+  "section": 6,
+  "instructor": "MDH",
+  "startTime": "4:50",
+  "endTime": "7:50",
+  "day": "M",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a398"
+  },
+  "courseCode": "CSE110LAB",
+  "section": 7,
+  "instructor": "SDIS",
+  "startTime": "1:30",
+  "endTime": "4:30",
+  "day": "T",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a399"
+  },
+  "courseCode": "CSE110LAB",
+  "section": 8,
+  "instructor": "SDIS",
+  "startTime": "8:00",
+  "endTime": "11:00",
+  "day": "R",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a39a"
+  },
+  "courseCode": "CSE110LAB",
+  "section": 9,
+  "instructor": "TBA",
+  "startTime": "1:30",
+  "endTime": "4:30",
+  "day": "T",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a39b"
+  },
+  "courseCode": "CSE110LAB",
+  "section": 10,
+  "instructor": "TBA",
+  "startTime": "4:50",
+  "endTime": "7:50",
+  "day": "R",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a39c"
+  },
+  "courseCode": "CSE200",
+  "section": 1,
+  "instructor": "SDIS",
+  "startTime": "1:30",
+  "endTime": "3:30",
+  "day": "T",
+  "room": "Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a39d"
+  },
+  "courseCode": "CSE200",
+  "section": 2,
+  "instructor": "MTRA",
+  "startTime": "10:10",
+  "endTime": "12:10",
+  "day": "M",
+  "room": "Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a39e"
+  },
+  "courseCode": "CSE200",
+  "section": 3,
+  "instructor": "SDIS",
+  "startTime": "10:10",
+  "endTime": "12:10",
+  "day": "S",
+  "room": "Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a39f"
+  },
+  "courseCode": "CSE200",
+  "section": 4,
+  "instructor": "MTRA",
+  "startTime": "10:10",
+  "endTime": "12:10",
+  "day": "T",
+  "room": "Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3a0"
+  },
+  "courseCode": "CSE200",
+  "section": 5,
+  "instructor": "TBA",
+  "startTime": "4:50",
+  "endTime": "6:50",
+  "day": "W",
+  "room": "Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3a1"
+  },
+  "courseCode": "CSE200",
+  "section": 6,
+  "instructor": "TBA",
+  "startTime": "4:50",
+  "endTime": "6:50",
+  "day": "R",
+  "room": "Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3a2"
+  },
+  "courseCode": "CSE207",
+  "section": 1,
+  "instructor": "MI",
+  "startTime": "8:30",
+  "endTime": "10:00",
+  "day": "ST"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3a3"
+  },
+  "courseCode": "CSE207",
+  "section": 2,
+  "instructor": "MI",
+  "startTime": "8:30",
+  "endTime": "10:00",
+  "day": "MW"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3a4"
+  },
+  "courseCode": "CSE207",
+  "section": 3,
+  "instructor": "DRK",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "SR"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3a5"
+  },
+  "courseCode": "CSE207",
+  "section": 4,
+  "instructor": "DRK",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "SR"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3a6"
+  },
+  "courseCode": "CSE207",
+  "section": 5,
+  "instructor": "MMLI",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "SR"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3a7"
+  },
+  "courseCode": "CSE207",
+  "section": 6,
+  "instructor": "TBA",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "SR"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3a8"
+  },
+  "courseCode": "CSE207LAB",
+  "section": 1,
+  "instructor": "MI",
+  "startTime": "8:00",
+  "endTime": "10:00",
+  "day": "R",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3a9"
+  },
+  "courseCode": "CSE207LAB",
+  "section": 2,
+  "instructor": "TBA",
+  "startTime": "4:50",
+  "endTime": "6:50",
+  "day": "T",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3aa"
+  },
+  "courseCode": "CSE207LAB",
+  "section": 3,
+  "instructor": "DRK",
+  "startTime": "8:00",
+  "endTime": "10:00",
+  "day": "S",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3ab"
+  },
+  "courseCode": "CSE207LAB",
+  "section": 4,
+  "instructor": "DRK",
+  "startTime": "8:00",
+  "endTime": "10:00",
+  "day": "R",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3ac"
+  },
+  "courseCode": "CSE207LAB",
+  "section": 5,
+  "instructor": "MMLI",
+  "startTime": "4:50",
+  "endTime": "6:50",
+  "day": "W",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3ad"
+  },
+  "courseCode": "CSE207LAB",
+  "section": 6,
+  "instructor": "TBA",
+  "startTime": "1:30",
+  "endTime": "3:30",
+  "day": "S",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3ae"
+  },
+  "courseCode": "CSE209",
+  "section": 1,
+  "instructor": "SHK",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "MW",
+  "parallelOfferedCourse": " CSE109"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3af"
+  },
+  "courseCode": "CSE209",
+  "section": 2,
+  "instructor": "RDA",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "MW",
+  "parallelOfferedCourse": " CSE109"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3b0"
+  },
+  "courseCode": "CSE209",
+  "section": 3,
+  "instructor": "MKN",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "MW",
+  "parallelOfferedCourse": " CSE109"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3b1"
+  },
+  "courseCode": "CSE209",
+  "section": 4,
+  "instructor": "RDA",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "ST",
+  "parallelOfferedCourse": " CSE109"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3b2"
+  },
+  "courseCode": "CSE209",
+  "section": 5,
+  "instructor": "DSMMI",
+  "startTime": "1:30",
+  "endTime": "3:00",
+  "day": "TR",
+  "parallelOfferedCourse": " CSE109"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3b3"
+  },
+  "courseCode": "CSE209",
+  "section": 6,
+  "instructor": "TBA",
+  "startTime": "1:30",
+  "endTime": "3:00",
+  "day": "MW",
+  "parallelOfferedCourse": " CSE109"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3b4"
+  },
+  "courseCode": "CSE209LAB",
+  "section": 1,
+  "instructor": "TBA",
+  "startTime": "10:10",
+  "endTime": "12:10",
+  "day": "R",
+  "room": "Electrical/Electronics Lab"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3b5"
+  },
+  "courseCode": "CSE209LAB",
+  "section": 2,
+  "instructor": "RDA",
+  "startTime": "1:30",
+  "endTime": "3:30",
+  "day": "W",
+  "room": "Electrical/Electronics Lab"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3b6"
+  },
+  "courseCode": "CSE209LAB",
+  "section": 3,
+  "instructor": "TBA",
+  "startTime": "1:30",
+  "endTime": "3:30",
+  "day": "W",
+  "room": "Electrical/Electronics Lab"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3b7"
+  },
+  "courseCode": "CSE209LAB",
+  "section": 4,
+  "instructor": "RDA",
+  "startTime": "1:30",
+  "endTime": "3:30",
+  "day": "M",
+  "room": "Electrical/Electronics Lab"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3b8"
+  },
+  "courseCode": "CSE209LAB",
+  "section": 5,
+  "instructor": "DSMMI",
+  "startTime": "4:50",
+  "endTime": "6:50",
+  "day": "T",
+  "room": "Electrical/Electronics Lab"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3b9"
+  },
+  "courseCode": "CSE209LAB",
+  "section": 6,
+  "instructor": "TBA",
+  "startTime": "4:50",
+  "endTime": "6:50",
+  "day": "S",
+  "parallelOfferedCourse": "CSE245"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3ba"
+  },
+  "courseCode": "CSE246",
+  "section": 1,
+  "instructor": "TBA",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "MW",
+  "parallelOfferedCourse": "CSE245"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3bb"
+  },
+  "courseCode": "CSE246",
+  "section": 2,
+  "instructor": "RARZ",
+  "startTime": "3:10",
+  "endTime": "4:40",
+  "day": "MW",
+  "parallelOfferedCourse": "CSE245"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3bc"
+  },
+  "courseCode": "CSE246",
+  "section": 3,
+  "instructor": "JAO",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "MW",
+  "parallelOfferedCourse": "CSE245"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3bd"
+  },
+  "courseCode": "CSE246",
+  "section": 4,
+  "instructor": "AUD",
+  "startTime": "1:30",
+  "endTime": "3:00",
+  "day": "SR",
+  "parallelOfferedCourse": "CSE245"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3be"
+  },
+  "courseCode": "CSE246",
+  "section": 5,
+  "instructor": "RARZ",
+  "startTime": "1:30",
+  "endTime": "3:00",
+  "day": "SR",
+  "parallelOfferedCourse": "CSE245"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3bf"
+  },
+  "courseCode": "CSE246",
+  "section": 6,
+  "instructor": "TBA",
+  "startTime": "8:30",
+  "endTime": "10:00",
+  "day": "ST",
+  "parallelOfferedCourse": "CSE245"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3c0"
+  },
+  "courseCode": "CSE246LAB",
+  "section": 1,
+  "instructor": "TBA",
+  "startTime": "10:10",
+  "endTime": "1:10",
+  "day": "R",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3c1"
+  },
+  "courseCode": "CSE246LAB",
+  "section": 2,
+  "instructor": "RARZ",
+  "startTime": "4:50",
+  "endTime": "7:50",
+  "day": "R",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3c2"
+  },
+  "courseCode": "CSE246LAB",
+  "section": 3,
+  "instructor": "JAO",
+  "startTime": "10:10",
+  "endTime": "1:10",
+  "day": "T",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3c3"
+  },
+  "courseCode": "CSE246LAB",
+  "section": 4,
+  "instructor": "AUD",
+  "startTime": "4:50",
+  "endTime": "7:50",
+  "day": "S",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3c4"
+  },
+  "courseCode": "CSE246LAB",
+  "section": 5,
+  "instructor": "RARZ",
+  "startTime": "1:30",
+  "endTime": "4:30",
+  "day": "T",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3c5"
+  },
+  "courseCode": "CSE246LAB",
+  "section": 6,
+  "instructor": "TBA",
+  "startTime": "10:10",
+  "endTime": "12:10",
+  "day": "M",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3c6"
+  },
+  "courseCode": "CSE251",
+  "section": 1,
+  "instructor": "MHR",
+  "startTime": "10:10",
+  "endTime": "11:50",
+  "day": "MW"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3c7"
+  },
+  "courseCode": "CSE251",
+  "section": 2,
+  "instructor": "MHR",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "MW"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3c8"
+  },
+  "courseCode": "CSE251",
+  "section": 3,
+  "instructor": "SHK",
+  "startTime": "1:30",
+  "endTime": "3:00",
+  "day": "MW"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3c9"
+  },
+  "courseCode": "CSE251",
+  "section": 4,
+  "instructor": "SHK",
+  "startTime": "1:30",
+  "endTime": "3:00",
+  "day": "ST"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3ca"
+  },
+  "courseCode": "CSE251",
+  "section": 5,
+  "instructor": "DSMMI",
+  "startTime": "3:10",
+  "endTime": "4:40",
+  "day": "TR"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3cb"
+  },
+  "courseCode": "CSE251",
+  "section": 6,
+  "instructor": "TBA",
+  "startTime": "10:10",
+  "endTime": "11:50",
+  "day": "MW"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3cc"
+  },
+  "courseCode": "CSE251LAB",
+  "section": 1,
+  "instructor": "MHR",
+  "startTime": "8:00",
+  "endTime": "10:00",
+  "day": "M",
+  "room": "Electronics Lab"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3cd"
+  },
+  "courseCode": "CSE251LAB",
+  "section": 2,
+  "instructor": "MHR",
+  "startTime": "8:00",
+  "endTime": "10:00",
+  "day": "W",
+  "room": "Electronics Lab"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3ce"
+  },
+  "courseCode": "CSE251LAB",
+  "section": 3,
+  "instructor": "SHK",
+  "startTime": "4:50",
+  "endTime": "6:50",
+  "day": "T",
+  "room": "Electronics Lab"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3cf"
+  },
+  "courseCode": "CSE251LAB",
+  "section": 4,
+  "instructor": "SHK",
+  "startTime": "1:30",
+  "endTime": "3:30",
+  "day": "R",
+  "room": "Electronics Lab"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3d0"
+  },
+  "courseCode": "CSE251",
+  "section": 5,
+  "instructor": "DSMMI",
+  "startTime": "4:50",
+  "endTime": "6:50",
+  "day": "R",
+  "room": "Electronics Lab"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3d1"
+  },
+  "courseCode": "CSE251",
+  "section": 6,
+  "instructor": "TBA",
+  "startTime": "8:00",
+  "endTime": "10:00",
+  "day": "M",
+  "room": "Electronics Lab"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3d2"
+  },
+  "courseCode": "CSE302",
+  "section": 1,
+  "instructor": "DMRH",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "ST",
+  "parallelOfferedCourse": "CSE301"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3d3"
+  },
+  "courseCode": "CSE302",
+  "section": 2,
+  "instructor": "DMRH",
+  "startTime": "1:30",
+  "endTime": "3:00",
+  "day": "MW",
+  "parallelOfferedCourse": "CSE301"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3d4"
+  },
+  "courseCode": "CSE302",
+  "section": 3,
+  "instructor": "DMSHN",
+  "startTime": "1:30",
+  "endTime": "3:00",
+  "day": "TR",
+  "parallelOfferedCourse": "CSE301"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3d5"
+  },
+  "courseCode": "CSE302",
+  "section": 4,
+  "instructor": "DMSHN",
+  "startTime": "3:10",
+  "endTime": "4:40",
+  "day": "TR",
+  "parallelOfferedCourse": "CSE301"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3d6"
+  },
+  "courseCode": "CSE302",
+  "section": 5,
+  "instructor": "MMLI",
+  "startTime": "1:30",
+  "endTime": "3:00",
+  "day": "MW",
+  "parallelOfferedCourse": "CSE301"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3d7"
+  },
+  "courseCode": "CSE302",
+  "section": 6,
+  "instructor": "TBA",
+  "startTime": "8:30",
+  "endTime": "10:00",
+  "day": "SR",
+  "parallelOfferedCourse": "CSE301"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3d8"
+  },
+  "courseCode": "CSE302LAB",
+  "section": 1,
+  "instructor": "DMRH",
+  "startTime": "1:30",
+  "endTime": "4:30",
+  "day": "S",
+  "room": "Database Lab"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3d9"
+  },
+  "courseCode": "CSE302LAB",
+  "section": 2,
+  "instructor": "DMRH",
+  "startTime": "1:30",
+  "endTime": "4:30",
+  "day": "T",
+  "room": "Database Lab"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3da"
+  },
+  "courseCode": "CSE302LAB",
+  "section": 3,
+  "instructor": "NTN",
+  "startTime": "1:30",
+  "endTime": "4:30",
+  "day": "M",
+  "room": "Database Lab"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3db"
+  },
+  "courseCode": "CSE302LAB",
+  "section": 4,
+  "instructor": "NTN",
+  "startTime": "4:50",
+  "endTime": "7:50",
+  "day": "W",
+  "room": "Database Lab"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3dc"
+  },
+  "courseCode": "CSE302LAB",
+  "section": 5,
+  "instructor": "MMLI",
+  "startTime": "4:50",
+  "endTime": "7:50",
+  "day": "M",
+  "room": "Database Lab"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3dd"
+  },
+  "courseCode": "CSE302LAB",
+  "section": 6,
+  "instructor": "TBA",
+  "startTime": "8:00",
+  "endTime": "11:00",
+  "day": "S",
+  "room": "Database Lab"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3de"
+  },
+  "courseCode": "CSE303",
+  "section": 1,
+  "instructor": "TBA",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "ST"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3df"
+  },
+  "courseCode": "CSE303LAB",
+  "section": 1,
+  "instructor": "TBA",
+  "startTime": "8:00",
+  "endTime": "10:00",
+  "day": "R",
+  "room": "Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3e0"
+  },
+  "courseCode": "CSE303",
+  "section": 2,
+  "instructor": "DMIM",
+  "startTime": "3:10",
+  "endTime": "4:40",
+  "day": "MW"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3e1"
+  },
+  "courseCode": "CSE303LAB",
+  "section": 2,
+  "instructor": "DMIM",
+  "startTime": "1:30",
+  "endTime": "3:30",
+  "day": "S",
+  "room": "Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3e2"
+  },
+  "courseCode": "CSE303",
+  "section": 3,
+  "instructor": "DMIM",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "ST"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3e3"
+  },
+  "courseCode": "CSE303LAB",
+  "section": 3,
+  "instructor": "DMIM",
+  "startTime": "1:30",
+  "endTime": "3:30",
+  "day": "R",
+  "room": "Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3e4"
+  },
+  "courseCode": "CSE303",
+  "section": 4,
+  "instructor": "TBA",
+  "startTime": "8:30",
+  "endTime": "10:00",
+  "day": "ST"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3e5"
+  },
+  "courseCode": "CSE303LAB",
+  "section": 4,
+  "instructor": "TBA",
+  "startTime": "1:30",
+  "endTime": "3:30",
+  "day": "S"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3e6"
+  },
+  "courseCode": "CSE325",
+  "section": 1,
+  "instructor": "NYA",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "ST"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3e7"
+  },
+  "courseCode": "CSE325",
+  "section": 2,
+  "instructor": "NYA",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "MW"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3e8"
+  },
+  "courseCode": "CSE325",
+  "section": 3,
+  "instructor": "PMTI",
+  "startTime": "1:30",
+  "endTime": "3:00",
+  "day": "SR"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3e9"
+  },
+  "courseCode": "CSE325",
+  "section": 4,
+  "instructor": "PMTI",
+  "startTime": "3:10",
+  "endTime": "4:40",
+  "day": "SR"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3ea"
+  },
+  "courseCode": "CSE325",
+  "section": 5,
+  "instructor": "TBA",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "ST"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3eb"
+  },
+  "courseCode": "CSE325LAB",
+  "section": 1,
+  "instructor": "NYA",
+  "startTime": "10:10",
+  "endTime": "12:10",
+  "day": "R",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3ec"
+  },
+  "courseCode": "CSE325LAB",
+  "section": 2,
+  "instructor": "NYA",
+  "startTime": "1:30",
+  "endTime": "3:30",
+  "day": "T",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3ed"
+  },
+  "courseCode": "CSE325LAB",
+  "section": 3,
+  "instructor": "PMTI",
+  "startTime": "4:50",
+  "endTime": "6:50",
+  "day": "S",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3ee"
+  },
+  "courseCode": "CSE325LAB",
+  "section": 4,
+  "instructor": "PMTI",
+  "startTime": "4:50",
+  "endTime": "6:50",
+  "day": "R",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3ef"
+  },
+  "courseCode": "CSE325LAB",
+  "section": 5,
+  "instructor": "TBA",
+  "startTime": "1:30",
+  "endTime": "3:30",
+  "day": "M",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3f0"
+  },
+  "courseCode": "CSE345",
+  "section": 1,
+  "instructor": "ALI",
+  "startTime": "8:30",
+  "endTime": "10:00",
+  "day": "MW"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3f1"
+  },
+  "courseCode": "CSE345",
+  "section": 2,
+  "instructor": "MKN",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "ST"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3f2"
+  },
+  "courseCode": "CSE345",
+  "section": 3,
+  "instructor": "MKN",
+  "startTime": "1:30",
+  "endTime": "3:00",
+  "day": "ST"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3f3"
+  },
+  "courseCode": "CSE345",
+  "section": 4,
+  "instructor": "ALI",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "TR"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3f4"
+  },
+  "courseCode": "CSE345",
+  "section": 5,
+  "instructor": "TBA",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "MW"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3f5"
+  },
+  "courseCode": "CSE345LAB",
+  "section": 1,
+  "instructor": "ALI",
+  "startTime": "1:30",
+  "endTime": "3:30",
+  "day": "S",
+  "room": "Digital System Lab"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3f6"
+  },
+  "courseCode": "CSE345LAB",
+  "section": 2,
+  "instructor": "MKN",
+  "startTime": "10:10",
+  "endTime": "12:10",
+  "day": "R",
+  "room": "Digital System Lab"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3f7"
+  },
+  "courseCode": "CSE345LAB",
+  "section": 3,
+  "instructor": "MKN",
+  "startTime": "1:30",
+  "endTime": "3:30",
+  "day": "R",
+  "room": "Digital System Lab"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3f8"
+  },
+  "courseCode": "CSE345LAB",
+  "section": 4,
+  "instructor": "ALI",
+  "startTime": "10:10",
+  "endTime": "12:10",
+  "day": "S",
+  "room": "Digital System Lab"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3f9"
+  },
+  "courseCode": "CSE345LAB",
+  "section": 5,
+  "instructor": "TBA",
+  "startTime": "4:50",
+  "endTime": "6:50",
+  "day": "W",
+  "room": "Digital System Lab"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3fa"
+  },
+  "courseCode": "CSE347",
+  "section": 1,
+  "instructor": "MMSU",
+  "startTime": "1:30",
+  "endTime": "3:00",
+  "day": "MW"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3fb"
+  },
+  "courseCode": "CSE347LAB",
+  "section": 1,
+  "instructor": "TBA",
+  "startTime": "4:50",
+  "endTime": "6:50",
+  "day": "M",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3fc"
+  },
+  "courseCode": "CSE347",
+  "section": 2,
+  "instructor": "TBA",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "SR"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3fd"
+  },
+  "courseCode": "CSE347LAB",
+  "section": 2,
+  "instructor": "TBA",
+  "startTime": "10:10",
+  "endTime": "12:10",
+  "day": "T",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3fe"
+  },
+  "courseCode": "CSE347",
+  "section": 3,
+  "instructor": "NTN",
+  "startTime": "1:30",
+  "endTime": "3:00",
+  "day": "SR"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a3ff"
+  },
+  "courseCode": "CSE347LAB",
+  "section": 3,
+  "instructor": "NTN",
+  "startTime": "10:10",
+  "endTime": "12:10",
+  "day": "S",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a400"
+  },
+  "courseCode": "CSE347",
+  "section": 4,
+  "instructor": "NTN",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "MW"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a401"
+  },
+  "courseCode": "CSE347LAB",
+  "section": 4,
+  "instructor": "NTN",
+  "startTime": "10:10",
+  "endTime": "12:10",
+  "day": "T"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a402"
+  },
+  "courseCode": "CSE347",
+  "section": 5,
+  "instructor": "DSU",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "ST"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a403"
+  },
+  "courseCode": "CSE347LAB",
+  "section": 5,
+  "instructor": "DSU",
+  "startTime": "4:50",
+  "endTime": "6:50",
+  "day": "W",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a404"
+  },
+  "courseCode": "CSE350",
+  "section": 1,
+  "instructor": "TBA-1",
+  "startTime": "1:30",
+  "endTime": "3:00",
+  "day": "MW"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a405"
+  },
+  "courseCode": "CSE350LAB",
+  "section": 1,
+  "instructor": "TBA-1",
+  "startTime": "4:50",
+  "endTime": "6:50",
+  "day": "M",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a406"
+  },
+  "courseCode": "CSE350",
+  "section": 2,
+  "instructor": "TBA-1",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "MW"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a407"
+  },
+  "courseCode": "CSE350LAB",
+  "section": 2,
+  "instructor": "TBA-1",
+  "startTime": "1:30",
+  "endTime": "3:30",
+  "day": "W",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a408"
+  },
+  "courseCode": "CSE360",
+  "section": 1,
+  "instructor": "DMEI",
+  "startTime": "8:30",
+  "endTime": "10:00",
+  "day": "MW"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a409"
+  },
+  "courseCode": "CSE360",
+  "section": 2,
+  "instructor": "ALI",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "TR"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a40a"
+  },
+  "courseCode": "CSE360",
+  "section": 3,
+  "instructor": "NYA",
+  "startTime": "1:30",
+  "endTime": "3:00",
+  "day": "ST"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a40b"
+  },
+  "courseCode": "CSE360",
+  "section": 4,
+  "instructor": "DMEI",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "MW"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a40c"
+  },
+  "courseCode": "CSE360",
+  "section": 5,
+  "instructor": "TBA",
+  "startTime": "3:10",
+  "endTime": "4:40",
+  "day": "MW"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a40d"
+  },
+  "courseCode": "CSE366",
+  "section": 1,
+  "instructor": "TBA",
+  "startTime": "3:10",
+  "endTime": "4:40",
+  "day": "MW",
+  "parallelOfferedCourse": "CSE365"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a40e"
+  },
+  "courseCode": "CSE366LAB",
+  "section": 1,
+  "instructor": "TBA",
+  "startTime": "1:30",
+  "endTime": "3:30",
+  "day": "R",
+  "room": "AI Lab",
+  "parallelOfferedCourse": "CSE365"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a40f"
+  },
+  "courseCode": "CSE366",
+  "section": 2,
+  "instructor": "TBA",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "SR",
+  "parallelOfferedCourse": "CSE365"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a410"
+  },
+  "courseCode": "CSE366LAB",
+  "section": 2,
+  "instructor": "TBA",
+  "startTime": "8:00",
+  "endTime": "10:00",
+  "day": "W",
+  "room": "AI Lab",
+  "parallelOfferedCourse": "CSE365"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a411"
+  },
+  "courseCode": "CSE366",
+  "section": 3,
+  "instructor": "DAKC",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "MW",
+  "parallelOfferedCourse": "CSE365"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a412"
+  },
+  "courseCode": "CSE366LAB",
+  "section": 3,
+  "instructor": "DAKC",
+  "startTime": "1:30",
+  "endTime": "3:30",
+  "day": "T",
+  "room": "AI Lab",
+  "parallelOfferedCourse": "CSE365"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a413"
+  },
+  "courseCode": "CSE366",
+  "section": 4,
+  "instructor": "DAKC",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "SR",
+  "parallelOfferedCourse": "CSE365"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a414"
+  },
+  "courseCode": "CSE366LAB",
+  "section": 4,
+  "instructor": "DAKC",
+  "startTime": "4:50",
+  "endTime": "6:50",
+  "day": "M",
+  "parallelOfferedCourse": "CSE365"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a415"
+  },
+  "courseCode": "CSE405",
+  "section": 1,
+  "instructor": "MAR",
+  "startTime": "8:30",
+  "endTime": "10:00",
+  "day": "MW"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a416"
+  },
+  "courseCode": "CSE405",
+  "section": 2,
+  "instructor": "MAR",
+  "startTime": "8:30",
+  "endTime": "10:00",
+  "day": "TR"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a417"
+  },
+  "courseCode": "CSE405",
+  "section": 3,
+  "instructor": "MAR",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "MW"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a418"
+  },
+  "courseCode": "CSE405",
+  "section": 4,
+  "instructor": "MI",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "ST"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a419"
+  },
+  "courseCode": "CSE405",
+  "section": 5,
+  "instructor": "MMRA",
+  "startTime": "8:30",
+  "endTime": "10:00",
+  "day": "MW"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a41a"
+  },
+  "courseCode": "CSE405",
+  "section": 6,
+  "instructor": "TBA",
+  "startTime": "8:30",
+  "endTime": "10:00",
+  "day": "MW"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a41b"
+  },
+  "courseCode": "CSE405LAB",
+  "section": 1,
+  "instructor": "TBA",
+  "startTime": "1:30",
+  "endTime": "3:30",
+  "day": "T",
+  "room": "Software Engineering Lab"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a41c"
+  },
+  "courseCode": "CSE405LAB",
+  "section": 2,
+  "instructor": "MAR",
+  "startTime": "8:00",
+  "endTime": "10:00",
+  "day": "S",
+  "room": "Software Engineering Lab"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a41d"
+  },
+  "courseCode": "CSE405LAB",
+  "section": 3,
+  "instructor": "MAR",
+  "startTime": "1:30",
+  "endTime": "3:30",
+  "day": "W",
+  "room": "Software Engineering Lab"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a41e"
+  },
+  "courseCode": "CSE405LAB",
+  "section": 4,
+  "instructor": "MI",
+  "startTime": "10:10",
+  "endTime": "12:10",
+  "day": "R",
+  "room": "Software Engineering Lab"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a41f"
+  },
+  "courseCode": "CSE405LAB",
+  "section": 5,
+  "instructor": "MMRA",
+  "startTime": "4:50",
+  "endTime": "6:50",
+  "day": "R"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a420"
+  },
+  "courseCode": "CSE405LAB",
+  "section": 6,
+  "instructor": "TBA",
+  "startTime": "4:50",
+  "endTime": "6:50",
+  "day": "M"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a421"
+  },
+  "courseCode": "CSE407",
+  "section": 1,
+  "instructor": "DAWR",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "MW"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a422"
+  },
+  "courseCode": "CSE407",
+  "section": 2,
+  "instructor": "TBA",
+  "startTime": "8:30",
+  "endTime": "10:00",
+  "day": "MW"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a423"
+  },
+  "courseCode": "CS407",
+  "section": 3,
+  "instructor": "TBA",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "ST"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a424"
+  },
+  "courseCode": "CS407",
+  "section": 4,
+  "instructor": "TBA",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "SR"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a425"
+  },
+  "courseCode": "CSE412",
+  "section": 1,
+  "instructor": "DSHR",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "ST",
+  "parallelOfferedCourse": "CSE411"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a426"
+  },
+  "courseCode": "CSE412LAB",
+  "section": 1,
+  "instructor": "DSHR",
+  "startTime": "1:30",
+  "endTime": "3:30",
+  "day": "M",
+  "room": "Software Engineering/Database/AI",
+  "parallelOfferedCourse": "CSE411"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a427"
+  },
+  "courseCode": "CSE412",
+  "section": 2,
+  "instructor": "DSHR",
+  "startTime": "1:30",
+  "endTime": "3:00",
+  "day": "SR",
+  "parallelOfferedCourse": "CSE411"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a428"
+  },
+  "courseCode": "CSE412LAB",
+  "section": 2,
+  "instructor": "DSHR",
+  "startTime": "1:30",
+  "endTime": "3:30",
+  "day": "W",
+  "room": "Software Engineering/Database/AI",
+  "parallelOfferedCourse": "CSE411"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a429"
+  },
+  "courseCode": "CSE420",
+  "section": 1,
+  "instructor": "MRAR",
+  "startTime": "1:30",
+  "endTime": "3:00",
+  "day": "MW",
+  "parallelOfferedCourse": "CSE411"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a42a"
+  },
+  "courseCode": "CSE420LAB",
+  "section": 1,
+  "instructor": "MRAR",
+  "startTime": "4:50",
+  "endTime": "6:50",
+  "day": "M",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a42b"
+  },
+  "courseCode": "CSE420",
+  "section": 2,
+  "instructor": "MRAR",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "TR"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a42c"
+  },
+  "courseCode": "CSE420LAB",
+  "section": 2,
+  "instructor": "MRAR",
+  "startTime": "10:10",
+  "endTime": "12:10",
+  "day": "S",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a42d"
+  },
+  "courseCode": "CSE430",
+  "section": 1,
+  "instructor": "DSHR",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "MW"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a42e"
+  },
+  "courseCode": "CSE430LAB",
+  "section": 1,
+  "instructor": "TBA",
+  "startTime": "10:10",
+  "endTime": "12:10",
+  "day": "R",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a42f"
+  },
+  "courseCode": "CSE430",
+  "section": 2,
+  "instructor": "TKAD",
+  "startTime": "1:30",
+  "endTime": "3:00",
+  "day": "ST",
+  "parallelOfferedCourse": "CSE435"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a430"
+  },
+  "courseCode": "CSE430LAB",
+  "section": 2,
+  "instructor": "TKAD",
+  "startTime": "1:30",
+  "endTime": "3:30",
+  "day": "R",
+  "parallelOfferedCourse": "CSE435"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a431"
+  },
+  "courseCode": "CSE438",
+  "section": 1,
+  "instructor": "DAWR",
+  "startTime": "1:30",
+  "endTime": "3:00",
+  "day": "MW",
+  "parallelOfferedCourse": "CSE435"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a432"
+  },
+  "courseCode": "CSE438LAB",
+  "section": 1,
+  "instructor": "DAWR",
+  "startTime": "8:00",
+  "endTime": "10:00",
+  "day": "R",
+  "room": "Sofware Enginnering LAB",
+  "parallelOfferedCourse": "CSE435"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a433"
+  },
+  "courseCode": "CSE438",
+  "section": 2,
+  "instructor": "DAWR",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "ST"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a434"
+  },
+  "courseCode": "CSE438LAB",
+  "section": 2,
+  "instructor": "DAWR",
+  "startTime": "10:10",
+  "endTime": "12:10",
+  "day": "R",
+  "room": "Sofware Enginnering LAB"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a435"
+  },
+  "courseCode": "CSE453",
+  "section": 1,
+  "instructor": "MMRA",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "ST"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a436"
+  },
+  "courseCode": "CSE453LAB",
+  "section": 1,
+  "instructor": "MMRA",
+  "startTime": "1:30",
+  "endTime": "3:30",
+  "day": "R"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a437"
+  },
+  "courseCode": "CSE464",
+  "section": 1,
+  "instructor": "MTRA",
+  "startTime": "8:30",
+  "endTime": "10:00",
+  "day": "ST"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a438"
+  },
+  "courseCode": "CSE464LAB",
+  "section": 1,
+  "instructor": "MTRA",
+  "startTime": "1:30",
+  "endTime": "3:30",
+  "day": "T",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a439"
+  },
+  "courseCode": "CSE464",
+  "section": 2,
+  "instructor": "MTRA",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "SR"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a43a"
+  },
+  "courseCode": "CSE464LAB",
+  "section": 2,
+  "instructor": "MTRA",
+  "startTime": "8:00",
+  "endTime": "10:00",
+  "day": "R",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a43b"
+  },
+  "courseCode": "CSE475",
+  "section": 1,
+  "instructor": "MMSU",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "SR"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a43c"
+  },
+  "courseCode": "CSE475LAB",
+  "section": 1,
+  "instructor": "MMSU",
+  "startTime": "10:10",
+  "endTime": "12:10",
+  "day": "T",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a43d"
+  },
+  "courseCode": "CSE475",
+  "section": 2,
+  "instructor": "DMGR",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "ST"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a43e"
+  },
+  "courseCode": "CSE475LAB",
+  "section": 2,
+  "instructor": "DMGR",
+  "startTime": "8:00",
+  "endTime": "10:00",
+  "day": "S",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a43f"
+  },
+  "courseCode": "CSE475",
+  "section": 3,
+  "instructor": "DMGR",
+  "startTime": "11:40",
+  "endTime": "1:20",
+  "day": "ST"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a440"
+  },
+  "courseCode": "CSE475LAB",
+  "section": 3,
+  "instructor": "DMGR",
+  "startTime": "8:00",
+  "endTime": "10:00",
+  "day": "T",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a441"
+  },
+  "courseCode": "CSE475",
+  "section": 4,
+  "instructor": "MMSU",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "MW"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a442"
+  },
+  "courseCode": "CSE475LAB",
+  "section": 4,
+  "instructor": "MMSU",
+  "startTime": "4:50",
+  "endTime": "6:50",
+  "day": "S",
+  "room": "Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a443"
+  },
+  "courseCode": "CSE475",
+  "section": 5,
+  "instructor": "TBA",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "ST"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a444"
+  },
+  "courseCode": "CSE475LAB",
+  "section": 5,
+  "instructor": "TBA",
+  "startTime": "4:50",
+  "endTime": "6:50",
+  "day": "T",
+  "room": "Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a445"
+  },
+  "courseCode": "CSE477",
+  "section": 1,
+  "instructor": "JAO",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "SR"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a446"
+  },
+  "courseCode": "CSE477LAB",
+  "section": 1,
+  "instructor": "JAO",
+  "startTime": "8:00",
+  "endTime": "10:00",
+  "day": "T",
+  "room": "ICS/Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a447"
+  },
+  "courseCode": "CSE477",
+  "section": 2,
+  "instructor": "TBA",
+  "startTime": "3:10",
+  "endTime": "4:40",
+  "day": "MW"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a448"
+  },
+  "courseCode": "CSE477LAB",
+  "section": 2,
+  "instructor": "TBA",
+  "startTime": "1:30",
+  "endTime": "3:30",
+  "day": "R"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a449"
+  },
+  "courseCode": "CSE479",
+  "section": 1,
+  "instructor": "MDH",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "ST",
+  "parallelOfferedCourse": "CSE480"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a44a"
+  },
+  "courseCode": "CSE479LAB",
+  "section": 1,
+  "instructor": "MDH",
+  "startTime": "10:10",
+  "endTime": "12:10",
+  "day": "W",
+  "room": "ICS/Software Engineering/Database/AI",
+  "parallelOfferedCourse": "CSE480"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a44b"
+  },
+  "courseCode": "CSE479",
+  "section": 2,
+  "instructor": "TBA",
+  "startTime": "1:30",
+  "endTime": "3:00",
+  "day": "MW",
+  "parallelOfferedCourse": "CSE480"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a44c"
+  },
+  "courseCode": "CSE479LAB",
+  "section": 2,
+  "instructor": "TBA",
+  "startTime": "10:10",
+  "endTime": "12:10",
+  "day": "R",
+  "room": "ICS/Software Engineering/Database/AI",
+  "parallelOfferedCourse": "CSE480"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a44d"
+  },
+  "courseCode": "CSE479",
+  "section": 3,
+  "instructor": "TBA",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "MW",
+  "room": "I",
+  "parallelOfferedCourse": "CSE480"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a44e"
+  },
+  "courseCode": "CSE479LAB",
+  "section": 3,
+  "instructor": "TBA",
+  "startTime": "8:00",
+  "endTime": "10:00",
+  "day": "W",
+  "room": "ICS/Software Engineering/Database/AI",
+  "parallelOfferedCourse": "CSE480"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a44f"
+  },
+  "courseCode": "CSE487",
+  "section": 1,
+  "instructor": "RDA",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "SR"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a450"
+  },
+  "courseCode": "CSE487",
+  "section": 2,
+  "instructor": "DAHF",
+  "startTime": "11:50",
+  "endTime": "1:20",
+  "day": "MW"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a451"
+  },
+  "courseCode": "CSE487",
+  "section": 3,
+  "instructor": "DAHF",
+  "startTime": "1:30",
+  "endTime": "3:00",
+  "day": "ST"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a452"
+  },
+  "courseCode": "CSE488",
+  "section": 1,
+  "instructor": "TBA",
+  "startTime": "8:30",
+  "endTime": "10:00",
+  "day": "ST"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a453"
+  },
+  "courseCode": "CSE488LAB",
+  "section": 1,
+  "instructor": "TBA",
+  "startTime": "8:00",
+  "endTime": "10:00",
+  "day": "R",
+  "room": "Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a454"
+  },
+  "courseCode": "CSE489",
+  "section": 1,
+  "instructor": "MKR",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "TR"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a455"
+  },
+  "courseCode": "CSE489LAB",
+  "section": 1,
+  "instructor": "MKR",
+  "startTime": "1:30",
+  "endTime": "3:30",
+  "day": "R",
+  "room": "Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a456"
+  },
+  "courseCode": "CSE489",
+  "section": 2,
+  "instructor": "MKR",
+  "startTime": "1:30",
+  "endTime": "3:30",
+  "day": "MW"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a457"
+  },
+  "courseCode": "CSE489LAB",
+  "section": 2,
+  "instructor": "MKR",
+  "startTime": "4:50",
+  "endTime": "6:50",
+  "day": "M",
+  "room": "Software Engineering/Database/AI"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a458"
+  },
+  "courseCode": "CSE495",
+  "section": 1,
+  "instructor": "FKZ",
+  "startTime": "8:30",
+  "endTime": "10:00",
+  "day": "MW"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a459"
+  },
+  "courseCode": "CSE495",
+  "section": 2,
+  "instructor": "FKZ",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "MW"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a45a"
+  },
+  "courseCode": "CSE495",
+  "section": 3,
+  "instructor": "TKAD",
+  "startTime": "10:10",
+  "endTime": "11:40",
+  "day": "SR"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a45b"
+  },
+  "courseCode": "CSE495",
+  "section": 4,
+  "instructor": "TKAD",
+  "startTime": "3:10",
+  "endTime": "4:40",
+  "day": "MW"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a45c"
+  },
+  "courseCode": "CSE497",
+  "section": 1,
+  "instructor": "TBA",
+  "startTime": "10:00",
+  "endTime": "10:02",
+  "day": "F",
+  "room": "Project"
+},
+{
+  "_id": {
+    "$oid": "647b6bff263da0ed98e2a45d"
+  },
+  "courseCode": "CSE499",
+  "section": 1,
+  "instructor": "TBA",
+  "startTime": "9:00",
+  "endTime": "12:00",
+  "day": "F"
+}]

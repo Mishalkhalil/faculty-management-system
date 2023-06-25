@@ -1,0 +1,428 @@
+[{
+  "_id": {
+    "$oid": "647b6b41263da0ed98e2a2ff"
+  },
+  "name": "Prof. Dr. Md. Mozammel Huq Azad Khan (MHAK)\n",
+  "designation": "Professor",
+  "email": "mhakhan@ewubd.edu",
+  "extension": 216,
+  "room": 641
+},
+{
+  "_id": {
+    "$oid": "647b6b41263da0ed98e2a300"
+  },
+  "name": "Prof. Dr. Shamim H. Ripon (DSHR)\n",
+  "designation": "Professor",
+  "email": "dshr@ewubd.edu",
+  "extension": 262,
+  "room": 647,
+  "mobile": {
+    "$numberLong": "8801928891978"
+  }
+},
+{
+  "_id": {
+    "$oid": "647b6b41263da0ed98e2a301"
+  },
+  "name": "Prof. Dr. Md. Nawab Yousuf Ali (NYA)\n",
+  "designation": "Professor",
+  "email": "nawab@ewubd.edu",
+  "extension": 104,
+  "room": 644,
+  "mobile": {
+    "$numberLong": "8801917119022"
+  }
+},
+{
+  "_id": {
+    "$oid": "647b6b41263da0ed98e2a302"
+  },
+  "name": "Dr. Ahmed Wasif Reza (DAWR)\n",
+  "designation": "Professor",
+  "email": "wasif@ewubd.edu",
+  "extension": 394,
+  "room": 646,
+  "mobile": {
+    "$numberLong": "8801780099173"
+  }
+},
+{
+  "_id": {
+    "$oid": "647b6b41263da0ed98e2a303"
+  },
+  "name": "Dr. Taskeed Jabid (TJ)\n",
+  "designation": "Associate Professor & Chairperson",
+  "email": "taskeed@ewubd.edu",
+  "extension": 221,
+  "room": 642,
+  "mobile": {
+    "$numberLong": "8801763704545"
+  }
+},
+{
+  "_id": {
+    "$oid": "647b6b41263da0ed98e2a304"
+  },
+  "name": "Dr. Maheen Islam (MI)\n",
+  "designation": "Associate Professor",
+  "email": "maheen@ewubd.edu",
+  "extension": 258,
+  "room": 628,
+  "mobile": {
+    "$numberLong": "8801715009676"
+  }
+},
+{
+  "_id": {
+    "$oid": "647b6b41263da0ed98e2a305"
+  },
+  "name": "Dr. Mohammad Rezwanul Huq (DMRH)\n",
+  "designation": "Associate Professor",
+  "email": "mrhuq@ewubd.edu",
+  "extension": 372,
+  "room": 626,
+  "mobile": {
+    "$numberLong": "8801729648344"
+  }
+},
+{
+  "_id": {
+    "$oid": "647b6b41263da0ed98e2a306"
+  },
+  "name": "Dr. Anisur Rahman (MAR) \n",
+  "designation": "Associate Professor",
+  "email": "anis@ewubd.edu",
+  "extension": 256,
+  "room": 629,
+  "mobile": {
+    "$numberLong": "8801715040900"
+  }
+},
+{
+  "_id": {
+    "$oid": "647b6b41263da0ed98e2a307"
+  },
+  "name": "Dr. Mohammad Arifuzzaman (DMAZ)\n",
+  "designation": "Associate Professor",
+  "email": "mazaman@ewubd.edu",
+  "extension": 225,
+  "room": 442,
+  "mobile": {
+    "$numberLong": "8801752673677"
+  }
+},
+{
+  "_id": {
+    "$oid": "647b6b41263da0ed98e2a308"
+  },
+  "name": "Dr. Anup Kumar Paul (DAKP)\n",
+  "designation": "Associate Professor",
+  "email": "anuppaul@ewubd.edu",
+  "extension": 117,
+  "room": 445,
+  "mobile": {
+    "$numberLong": "8801632224169"
+  }
+},
+{
+  "_id": {
+    "$oid": "647b6b41263da0ed98e2a309"
+  },
+  "name": "Dr. Sarwar Jahan (SJ)\n",
+  "designation": "Associate Professor",
+  "email": "sjahan@ewubd.edu",
+  "extension": 165,
+  "room": 444,
+  "mobile": {
+    "$numberLong": "8801911748011"
+  }
+},
+{
+  "_id": {
+    "$oid": "647b6b41263da0ed98e2a30a"
+  },
+  "name": "Dr. Mohammad Salah Uddin (DSU)\n",
+  "designation": "Associate Professor",
+  "email": "uddin@ewubd.edu",
+  "extension": 395,
+  "room": 648,
+  "mobile": {
+    "$numberLong": "8801772704392"
+  }
+},
+{
+  "_id": {
+    "$oid": "647b6b41263da0ed98e2a30b"
+  },
+  "name": "Dr. Md. Sawkat Ali (ALI)\n",
+  "designation": "Associate Professor",
+  "email": "alim@ewubd.edu",
+  "extension": 154,
+  "room": 627,
+  "mobile": {
+    "$numberLong": "8801789492705"
+  }
+},
+{
+  "_id": {
+    "$oid": "647b6b41263da0ed98e2a30c"
+  },
+  "name": "Md. Mostofa Kamal Rasel (MKR)\n",
+  "designation": "Assistant Professor",
+  "email": "mostofa.kamal@ewubd.edu",
+  "extension": 351,
+  "room": 635,
+  "mobile": {
+    "$numberLong": "8801717256973"
+  }
+},
+{
+  "_id": {
+    "$oid": "647b6b41263da0ed98e2a30d"
+  },
+  "name": "Dr. Mohammad Rifat Ahmmad Rashid (MRAR) \n",
+  "designation": "Assistant Professor",
+  "email": "rifat.rashid@ewubd.edu",
+  "extension": 446,
+  "room": 635,
+  "mobile": {
+    "$numberLong": "8801314447616"
+  }
+},
+{
+  "_id": {
+    "$oid": "647b6b41263da0ed98e2a30e"
+  },
+  "name": "Dr. Mohammad Manzurul Islam (DMIM)\n",
+  "designation": "Assistant Professor",
+  "email": "md.manzurul.islam@gmail.com",
+  "extension": 469,
+  "room": 367,
+  "mobile": {
+    "$numberLong": "8801713494664"
+  }
+},
+{
+  "_id": {
+    "$oid": "647b6b41263da0ed98e2a30f"
+  },
+  "name": "Dr. Md. Hasanul Ferdaus (DAHF)\n",
+  "designation": "Assistant Professor",
+  "email": "hasanul.ferdaus@ewubd.edu",
+  "extension": 469,
+  "room": 367,
+  "mobile": {
+    "$numberLong": "8801799687213"
+  }
+},
+{
+  "_id": {
+    "$oid": "647b6b41263da0ed98e2a310"
+  },
+  "name": "Dr. Abdullahil Al Kafee Chowdhury (DAKC)\n",
+  "designation": "Assistant Professor",
+  "email": "abdullahi.kafee@ewubd.edu",
+  "room": "AB3-303",
+  "mobile": {
+    "$numberLong": "8801813751338"
+  }
+},
+{
+  "_id": {
+    "$oid": "647b6b41263da0ed98e2a311"
+  },
+  "name": "Dr. Hasan Mahmood Aminul Islam (DHMAI)\n",
+  "designation": "Assistant Professor",
+  "email": "mahmood.aminul@ewubd.edu",
+  "room": "AB3-1003",
+  "mobile": {
+    "$numberLong": "8801820999779"
+  }
+},
+{
+  "_id": {
+    "$oid": "647b6b41263da0ed98e2a312"
+  },
+  "name": "Rashedul Amin Tuhin (RDA)\n",
+  "designation": "Senior Lecturer",
+  "email": "mcctuhin@ewubd.edu",
+  "extension": 447,
+  "room": 640,
+  "mobile": {
+    "$numberLong": "8801719356588"
+  }
+},
+{
+  "_id": {
+    "$oid": "647b6b41263da0ed98e2a313"
+  },
+  "name": "Tanni Mittra (TM)\n",
+  "designation": "Senior Lecturer",
+  "email": "tanni@ewubd.edu",
+  "extension": 448,
+  "room": 636,
+  "mobile": {
+    "$numberLong": "8801750805282"
+  }
+},
+{
+  "_id": {
+    "$oid": "647b6b41263da0ed98e2a314"
+  },
+  "name": "M Saddam Hossain Khan (SHK)\n",
+  "designation": "Senior Lecturer",
+  "email": "saddam.cse@ewubd.edu",
+  "extension": 315,
+  "room": 640,
+  "mobile": {
+    "$numberLong": "8801911536727"
+  }
+},
+{
+  "_id": {
+    "$oid": "647b6b41263da0ed98e2a315"
+  },
+  "name": "Musharrat Khan (MKN)\n",
+  "designation": "Senior Lecturer",
+  "email": "musharrat.khan@ewubd.edu",
+  "extension": 329,
+  "room": 636,
+  "mobile": {
+    "$numberLong": "8801711487621"
+  }
+},
+{
+  "_id": {
+    "$oid": "647b6b41263da0ed98e2a316"
+  },
+  "name": "Mahamudul Hasan (MDH)\n",
+  "designation": "Senior Lecturer",
+  "email": "mahamudul@ewubd.edu",
+  "extension": 156,
+  "room": 725,
+  "mobile": {
+    "$numberLong": "8801734325208"
+  }
+},
+{
+  "_id": {
+    "$oid": "647b6b41263da0ed98e2a317"
+  },
+  "name": "Md. Mohsin Uddin (MMSU)\n",
+  "designation": "Senior Lecturer",
+  "email": "mmuddin@ewubd.edu",
+  "extension": 411,
+  "room": 640,
+  "mobile": "8801535431270\n8801323149120"
+},
+{
+  "_id": {
+    "$oid": "647b6b41263da0ed98e2a318"
+  },
+  "name": "Md. Jesan Ahammed Ovi (JAO)\n",
+  "designation": "Senior Lecturer",
+  "email": "jesan@ewubd.edu",
+  "extension": 511,
+  "room": 648,
+  "mobile": {
+    "$numberLong": "8801686900456"
+  }
+},
+{
+  "_id": {
+    "$oid": "647b6b41263da0ed98e2a319"
+  },
+  "name": "Md Al-Imran (IMRAN)\n",
+  "designation": "Lecturer",
+  "email": "al.imran@ewubd.edu",
+  "extension": 514,
+  "room": 725,
+  "mobile": {
+    "$numberLong": "8801762272287"
+  }
+},
+{
+  "_id": {
+    "$oid": "647b6b41263da0ed98e2a31a"
+  },
+  "name": "Redwan Ahmed Rizvee (RARZ)\n",
+  "designation": "Lecturer",
+  "email": "redwan.rizvee@ewubd.edu",
+  "extension": 515,
+  "room": "AB1-205",
+  "mobile": "8801758-545903"
+},
+{
+  "_id": {
+    "$oid": "647b6b41263da0ed98e2a31b"
+  },
+  "name": "Nishat Tasnim Niloy (NTN)\n",
+  "designation": "Lecturer",
+  "email": "nishat.niloy@ewubd.edu",
+  "extension": 513,
+  "room": 368,
+  "mobile": {
+    "$numberLong": "8801714642163"
+  }
+},
+{
+  "_id": {
+    "$oid": "647b6b41263da0ed98e2a31c"
+  },
+  "name": "Md. Mahir Ashhab (MMRA)\n",
+  "designation": "Lecturer",
+  "email": "mahir.ashhab@ewubd.edu",
+  "room": "AB1-203",
+  "mobile": {
+    "$numberLong": "8801521442912"
+  }
+},
+{
+  "_id": {
+    "$oid": "647b6b41263da0ed98e2a31d"
+  },
+  "name": "Md. Tanvir Alam (MTRA)\n",
+  "designation": "Lecturer",
+  "email": "tanvir.alam@ewubd.edu",
+  "room": "AB1-305",
+  "mobile": {
+    "$numberLong": "8801551225972"
+  }
+},
+{
+  "_id": {
+    "$oid": "647b6b41263da0ed98e2a31e"
+  },
+  "name": "Sadika Islam Sneha (SDIS)\n",
+  "designation": "Lecturer",
+  "email": "sadika.sneha@ewubd.edu",
+  "room": 368,
+  "mobile": {
+    "$numberLong": "8801751303844"
+  }
+},
+{
+  "_id": {
+    "$oid": "647b6b41263da0ed98e2a31f"
+  },
+  "name": "Md. Khalid Mahbub Khan (KHALID)\n",
+  "designation": "Lecturer",
+  "email": "khalid.khan@ewubd.edu",
+  "room": 367,
+  "mobile": {
+    "$numberLong": "8801788862327"
+  }
+},
+{
+  "_id": {
+    "$oid": "647b6b41263da0ed98e2a320"
+  },
+  "name": "Amit Mandal (AMITM)\n",
+  "designation": "Lecturer",
+  "email": "amit.mandal@ewubd.edu",
+  "room": 367,
+  "mobile": {
+    "$numberLong": "8801674923050"
+  }
+}]

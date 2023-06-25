@@ -1,0 +1,480 @@
+[{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a322"
+  },
+  "courseCode": "CSE101",
+  "courseTitle": "Introduction to Computers I",
+  "credits": 3,
+  "courseType": "OD"
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a323"
+  },
+  "courseCode": "CSE102",
+  "courseTitle": "Introduction to Computers II",
+  "credits": 3,
+  "courseType": "OD"
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a324"
+  },
+  "courseCode": "CSE103",
+  "courseTitle": "Structured Programming",
+  "credits": 4.5,
+  "courseType": "Core",
+  "parallelCourse": "ICE103 (4)",
+  "parallelCourseCredits": 4
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a325"
+  },
+  "courseCode": "CSE106",
+  "courseTitle": "Discrete Mathematics",
+  "credits": 3,
+  "courseType": "Core",
+  "parallelCourse": "ICE204 (3)",
+  "parallelCourseCredits": 3
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a326"
+  },
+  "courseCode": "CSE110",
+  "courseTitle": "Object Oriented Programming",
+  "credits": 4.5,
+  "courseType": "Core",
+  "parallelCourse": "ICE107 (4)",
+  "parallelCourseCredits": 4
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a327"
+  },
+  "courseCode": "CSE200",
+  "courseTitle": "Computer-Aided Engineering Drawing",
+  "credits": 1,
+  "courseType": "Core"
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a328"
+  },
+  "courseCode": "CSE207",
+  "courseTitle": "Data Structures",
+  "credits": 4,
+  "courseType": "Core",
+  "parallelCourse": "ICE207 (4)",
+  "parallelCourseCredits": 4
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a329"
+  },
+  "courseCode": "CSE209",
+  "courseTitle": "Electrical Circuits",
+  "credits": 4,
+  "courseType": "Core",
+  "parallelCourse": "ICE109 (4)",
+  "parallelCourseCredits": 4
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a32a"
+  },
+  "courseCode": "CSE227",
+  "courseTitle": "Numerical Methods and Computer Programming",
+  "credits": 4.5,
+  "courseType": "OD"
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a32b"
+  },
+  "courseCode": "CSE246",
+  "courseTitle": "Algorithms",
+  "credits": 4.5,
+  "courseType": "Core",
+  "parallelCourse": "ICE245 (4)",
+  "parallelCourseCredits": 4
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a32c"
+  },
+  "courseCode": "CSE251",
+  "courseTitle": "Electronic Circuits",
+  "credits": 4,
+  "courseType": "Core",
+  "parallelCourse": "ICE213 (4)",
+  "parallelCourseCredits": 4
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a32d"
+  },
+  "courseCode": "CSE302",
+  "courseTitle": "Database Systems",
+  "credits": 4.5,
+  "courseType": "Core",
+  "parallelCourse": "ICE305 (4)",
+  "parallelCourseCredits": 4
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a32e"
+  },
+  "courseCode": "CSE303",
+  "courseTitle": "Statistics for Data Science",
+  "credits": 4,
+  "courseType": "MC"
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a32f"
+  },
+  "courseCode": "CSE325",
+  "courseTitle": "Operating Systems",
+  "credits": 4,
+  "courseType": "Core",
+  "parallelCourse": "ICE275 (3)",
+  "parallelCourseCredits": 3
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a330"
+  },
+  "courseCode": "CSE345",
+  "courseTitle": "Digital Logic Design",
+  "credits": 4,
+  "courseType": "Core",
+  "parallelCourse": "ICE217 (4)",
+  "parallelCourseCredits": 4
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a331"
+  },
+  "courseCode": "CSE347",
+  "courseTitle": "Information System Analysis and Design",
+  "credits": 4,
+  "courseType": "Core"
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a332"
+  },
+  "courseCode": "CSE350",
+  "courseTitle": "Data Communications",
+  "credits": 4,
+  "courseType": "MC"
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a333"
+  },
+  "courseCode": "CSE360",
+  "courseTitle": "Computer Architecture",
+  "credits": 3,
+  "courseType": "Core",
+  "parallelCourse": "ICE469 (3)",
+  "parallelCourseCredits": 3
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a334"
+  },
+  "courseCode": "CSE366",
+  "courseTitle": "Artificial Intelligence",
+  "credits": 4,
+  "courseType": "MC",
+  "parallelCourse": "ICE476 (3), ICE475 (3), ETE475 (3)",
+  "parallelCourseCredits": 3
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a335"
+  },
+  "courseCode": "CSE405",
+  "courseTitle": "Computer Networks",
+  "credits": 4,
+  "courseType": "Core",
+  "parallelCourse": "ICE302 (4)",
+  "parallelCourseCredits": 4
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a336"
+  },
+  "courseCode": "CSE407",
+  "courseTitle": "Green Computing",
+  "credits": 3,
+  "courseType": "Core"
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a337"
+  },
+  "courseCode": "CSE412",
+  "courseTitle": "Software Engineering",
+  "credits": 4,
+  "courseType": "MC"
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a338"
+  },
+  "courseCode": "CSE420",
+  "courseTitle": "Computer Graphics",
+  "credits": 4,
+  "courseType": "ME",
+  "parallelCourse": "ICE474 (3)",
+  "parallelCourseCredits": 3
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a339"
+  },
+  "courseCode": "CSE430",
+  "courseTitle": "Software Testing and Quality Assurance",
+  "credits": 4,
+  "courseType": "MC"
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a33a"
+  },
+  "courseCode": "CSE432",
+  "courseTitle": "Digital Signal Processing",
+  "credits": 4,
+  "courseType": "MC",
+  "parallelCourse": "ICE322 (4)",
+  "parallelCourseCredits": 4
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a33b"
+  },
+  "courseCode": "CSE438",
+  "courseTitle": "Digital Image Processing",
+  "credits": 4,
+  "courseType": "ME"
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a33c"
+  },
+  "courseCode": "CSE442",
+  "courseTitle": "Microprocessor and Microcontroller",
+  "credits": 4,
+  "courseType": "MC"
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a33d"
+  },
+  "courseCode": "CSE453",
+  "courseTitle": "Wireless Networks",
+  "credits": 3,
+  "courseType": "ME",
+  "parallelCourse": "ICE456 (4), ETE456 (4)",
+  "parallelCourseCredits": 4
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a33e"
+  },
+  "courseCode": "CSE464",
+  "courseTitle": "Advanced Database Systems",
+  "credits": 4,
+  "courseType": "ME"
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a33f"
+  },
+  "courseCode": "CSE475",
+  "courseTitle": "Machine Learning",
+  "credits": 4,
+  "courseType": "ME",
+  "parallelCourse": "ICE478 (3)",
+  "parallelCourseCredits": 3
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a340"
+  },
+  "courseCode": "CSE477",
+  "courseTitle": "Data Mining",
+  "credits": 4,
+  "courseType": "ME"
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a341"
+  },
+  "courseCode": "CSE479",
+  "courseTitle": "Web Programming",
+  "credits": 4,
+  "courseType": "ME"
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a342"
+  },
+  "courseCode": "CSE487",
+  "courseTitle": "Cyber Security, Ethics and Law",
+  "credits": 3,
+  "courseType": "Core",
+  "parallelCourse": "ICE453 (3), ETE450 (3)",
+  "parallelCourseCredits": 3
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a343"
+  },
+  "courseCode": "CSE488",
+  "courseTitle": "Big Data Analytics",
+  "credits": 4,
+  "courseType": "ME"
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a344"
+  },
+  "courseCode": "CSE489",
+  "courseTitle": "Mobile Programming",
+  "credits": 4,
+  "courseType": "ME"
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a345"
+  },
+  "courseCode": "CSE495",
+  "courseTitle": "IT Project Management and Entrepreneurship",
+  "credits": 3,
+  "courseType": "Core",
+  "parallelCourse": "ICE473 (3)",
+  "parallelCourseCredits": 3
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a346"
+  },
+  "courseCode": "ICE216",
+  "courseTitle": "Signals and Systems",
+  "credits": 3,
+  "parallelCourse": "ICE209",
+  "parallelCourseCredits": 3
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a347"
+  },
+  "courseCode": "ICE310",
+  "courseTitle": "Electromagnetic Theory",
+  "credits": 3,
+  "parallelCourse": "ETE310",
+  "parallelCourseCredits": 3
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a348"
+  },
+  "courseCode": "ICE313",
+  "courseTitle": "Microprocessors and Interfacing",
+  "credits": 4,
+  "parallelCourse": "ICE316, ETE313, ETE316",
+  "parallelCourseCredits": 4
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a349"
+  },
+  "courseCode": "ICE314",
+  "courseTitle": "Digital Communications",
+  "credits": 4
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a34a"
+  },
+  "courseCode": "ICE370",
+  "courseTitle": "Applied Numerial Methods",
+  "credits": 3,
+  "parallelCourse": "ETE370, ICE470 (4), ETE470 (4)",
+  "parallelCourseCredits": 4
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a34b"
+  },
+  "courseCode": "ICE401",
+  "courseTitle": "VLSI Circuit Design",
+  "credits": 4,
+  "parallelCourse": "ETE401",
+  "parallelCourseCredits": 4
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a34c"
+  },
+  "courseCode": "ICE448",
+  "courseTitle": "Information Theory and Coding",
+  "credits": 3,
+  "parallelCourse": "ICE350, ETE448, ETE350",
+  "parallelCourseCredits": 3
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a34d"
+  },
+  "courseCode": "ICE439",
+  "courseTitle": "Engineering Ethics",
+  "credits": 3,
+  "parallelCourse": "ETE439",
+  "parallelCourseCredits": 3
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a34e"
+  },
+  "courseCode": "ICE441",
+  "courseTitle": "Wireless and Mobile Communications",
+  "credits": 3,
+  "parallelCourse": "ETE441",
+  "parallelCourseCredits": 3
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a34f"
+  },
+  "courseCode": "ICE444",
+  "courseTitle": "Telecommunication Networks and Switching",
+  "credits": 3,
+  "parallelCourse": "ETE444",
+  "parallelCourseCredits": 3
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a350"
+  },
+  "courseCode": "ETE225",
+  "courseTitle": "Introduction to Control Systems",
+  "credits": 4,
+  "parallelCourse": "ETE420",
+  "parallelCourseCredits": 4
+},
+{
+  "_id": {
+    "$oid": "647b6b9a263da0ed98e2a351"
+  },
+  "courseCode": "ETE319",
+  "courseTitle": "Electronic Properties of Materials",
+  "credits": 3,
+  "parallelCourse": "ETE219",
+  "parallelCourseCredits": 3
+}]

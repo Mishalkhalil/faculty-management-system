@@ -40,17 +40,21 @@ const Password = ({ fill, size, height, width, ...props }) => {
   );
 };
 
-const EditTeacherData = ({props}) => {
-    const { teacherData } = props;
-  const {name, email} = teacherData;
-  const [formData, setFormData] = useState(teacherData ? teacherData : {
-    name: "",
-    email: "",
-    designation: "",
-    subject: "",
-    avatar: "",
-    classes: []
-  });
+const EditTeacherData = ({ props }) => {
+  const { teacherData } = props;
+  const { name, email } = teacherData;
+  const [formData, setFormData] = useState(
+    teacherData
+      ? teacherData
+      : {
+          name: "",
+          email: "",
+          designation: "",
+          subject: "",
+          avatar: "",
+          classes: [],
+        }
+  );
   const [teachersInSession, setTeachersInSession] = useState([]);
   const [message, setMessage] = useState(false);
   const handleChange = (e) => {
@@ -71,8 +75,8 @@ const EditTeacherData = ({props}) => {
       avatar: "/static/images/teacher.webp",
     };
     const checkIndex = (item) => {
-        return item.id === teacherData.id;
-    }
+      return item.id === teacherData.id;
+    };
     const indexToSet = teachersInSession.findIndex(checkIndex);
     let allTeacher = [...teachersInSession];
     allTeacher[indexToSet] = newTeacherInfo;
@@ -80,7 +84,7 @@ const EditTeacherData = ({props}) => {
       sessionStorage.setItem("teachers", JSON.stringify(allTeacher));
 
       setMessage(true);
-      props.setTeachersInSession(allTeacher)
+      props.setTeachersInSession(allTeacher);
       setTimeout(() => {
         setMessage(false);
       }, 3000);
@@ -138,7 +142,9 @@ const EditTeacherData = ({props}) => {
             handleChange,
             menuItems: designation,
             name: "designation",
-            deafultSet: teacherData.designation ? teacherData.designation : "Designation",
+            deafultSet: teacherData.designation
+              ? teacherData.designation
+              : "Designation",
           }}
         />
         <DropDown

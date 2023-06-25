@@ -1,7 +1,11 @@
 import { Card, Col, Row, Button, Text } from "@nextui-org/react";
 
-const TeachersCard = ({props}) => (
-  <Card variant="bordered" css={{ w: "100%", h: "350px" }} className="hover:shadow-xl">
+const TeachersCard = ({ props }) => (
+  <Card
+    variant="bordered"
+    css={{ w: "100%", h: "350px" }}
+    className="hover:shadow-xl"
+  >
     <Card.Body css={{ p: 0 }}>
       <Card.Image
         src="/static/images/teacher.webp"
@@ -25,32 +29,24 @@ const TeachersCard = ({props}) => (
           <Row>
             <Col>
               <Text color="$blackBlurred" size={12} className="font-bold">
-                John Doe
+                {props.item.name}
+              </Text>
+              <Text color="$blackBlurred" size={12} className="font-semibold">
+                {props.item.email}
               </Text>
               <Text color="$blackBlurred" size={12}>
-                Assitant Teacher for Physics
+                {props.item.designation}
               </Text>
             </Col>
           </Row>
         </Col>
         <Col>
           <Row justify="flex-end">
-            <Button
-              flat
-              auto
-              rounded
-              css={{ color: "#94f9f0", bg: "#94f9f026" }}
-              onClick={() => console.log(props.item)}
-            >
-              <Text
-                css={{ color: "$primary" }}
-                size={12}
-                weight="bold"
-                transform="uppercase"
-              >
-                Details
-              </Text>
-            </Button>
+            <Text color="$blackBlurred" size={12} className="font-semibold">
+              {props.item.phone
+                ? Object.values(props.item.phone)[0]
+                : "01234567890"}
+            </Text>
           </Row>
         </Col>
       </Row>

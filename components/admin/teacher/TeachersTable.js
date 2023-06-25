@@ -222,7 +222,7 @@ const TeachersTable = () => {
     const teachersFromSession = JSON.parse(
       sessionStorage.getItem("teachers")
     );
-    const tempTeacherList = [...teachersFromSession];
+    let tempTeacherList = [...teachersFromSession];
 
     tempTeacherList = tempTeacherList.filter((item) => item.id !== id);
     sessionStorage.setItem("teachers", JSON.stringify(tempTeacherList), 3);

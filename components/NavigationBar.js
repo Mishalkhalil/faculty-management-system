@@ -112,17 +112,17 @@ const NavigationBar = () => {
   const { isDark, type } = useTheme();
   const router = useRouter();
   const collapseItems = ["About", "Contact"];
-  
+
   const loadLoginStatus = () => {
-    const loginStatus = winD && sessionStorage.getItem("loggedin") === "yes" ? true : false;
+    const loginStatus =
+      winD && sessionStorage.getItem("loggedin") === "yes" ? true : false;
     setLoggedin(loginStatus);
-  }
+  };
   useEffect(() => {
     loadLoginStatus();
 
     () => loadLoginStatus();
-  }, [])
-    
+  }, []);
 
   return (
     <Navbar variant="sticky" maxWidth="fluid" style={{ zIndex: 1000 }}>
@@ -133,37 +133,12 @@ const NavigationBar = () => {
           className="relative flex items-center gap-3 cursor-pointer"
           onClick={() => router.push("/")}
         >
-          <Image src={NGS_LOGO} alt="me" width="54" height="54" />
+          {/* <Image src={NGS_LOGO} alt="me" width="54" height="54" /> */}
           <span className="font-bold text-lg lg:text-xl hidden md:block">
-            National <br /> Grammer School
+            Faculty <br /> Management System
           </span>
         </div>
       </Navbar.Brand>
-      <Navbar.Content
-        enableCursorHighlight
-        activeColor="primary"
-        hideIn="xs"
-        variant="highlight-rounded"
-      >
-        <Navbar.Link
-          isActive={router.pathname.includes("/teachers")}
-          href="/teachers"
-        >
-          Teachers
-        </Navbar.Link>
-        <Navbar.Link
-          isActive={router.pathname.includes("/about")}
-          href="/about"
-        >
-          About
-        </Navbar.Link>
-        <Navbar.Link
-          isActive={router.pathname.includes("/contact")}
-          href="/contact"
-        >
-          Contact
-        </Navbar.Link>
-      </Navbar.Content>
       <Navbar.Content
         css={{
           "@xs": {
@@ -186,38 +161,38 @@ const NavigationBar = () => {
           className="cursor-pointer"
         />
 
-        {
-          loggedin ? <Dropdown placement="bottom-right">
-          <Navbar.Item>
-            <Dropdown.Trigger>
-              <Avatar
-                bordered
-                as="button"
-                color="primary"
-                size="md"
-                src="/static/images/profile.webp"
-              />
-            </Dropdown.Trigger>
-          </Navbar.Item>
-          <Dropdown.Menu
-            aria-label="User menu actions"
-            color="primary"
-            onAction={(actionKey) => console.log({ actionKey })}
-          >
-            <Dropdown.Item key="logout" color="error">
-              <div
-                onClick={() => {
-                  sessionStorage.setItem("loggedin", "no", 2);
-                  router.reload("/");
-                }}
-                className="w-full flex"
-              >
-                Log Out
-              </div>
-            </Dropdown.Item>
-          </Dropdown.Menu>
-        </Dropdown> : null
-        }
+        {loggedin ? (
+          <Dropdown placement="bottom-right">
+            <Navbar.Item>
+              <Dropdown.Trigger>
+                <Avatar
+                  bordered
+                  as="button"
+                  color="primary"
+                  size="md"
+                  src="/static/images/profile.webp"
+                />
+              </Dropdown.Trigger>
+            </Navbar.Item>
+            <Dropdown.Menu
+              aria-label="User menu actions"
+              color="primary"
+              onAction={(actionKey) => console.log({ actionKey })}
+            >
+              <Dropdown.Item key="logout" color="error">
+                <div
+                  onClick={() => {
+                    sessionStorage.setItem("loggedin", "no", 2);
+                    router.reload("/");
+                  }}
+                  className="w-full flex"
+                >
+                  Log Out
+                </div>
+              </Dropdown.Item>
+            </Dropdown.Menu>
+          </Dropdown>
+        ) : null}
       </Navbar.Content>
       <Navbar.Collapse>
         {collapseItems.map((item, index) => (
